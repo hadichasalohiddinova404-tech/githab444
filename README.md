@@ -1,4 +1,4 @@
-# githab444# Husanboy NFT dApp
+# githab444#  NFT dApp
 
 Husanboy NFT dApp bu NFT minting va hamjamiyat ovoz berish imkoniyatlarini birlashtirgan Web3 loyiha. Foydalanuvchi NFT mint qiladi, token metadata’ni yangilaydi va NFT holder sifatida governance proposal yaratib ovoz bera oladi.
 
